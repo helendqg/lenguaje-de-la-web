@@ -4,13 +4,16 @@ h1 {
 	font-family:Arial;
 	font-size:20px;
 }
+
 img{
-	borer-color:blue 1px solid;
+	border:blue 1px solid ;
 } 
+
 p{
 	color:yellow;
 	font-size:14px;
 }
+
 h2{
 	color:black;
 	font-size:16px;
